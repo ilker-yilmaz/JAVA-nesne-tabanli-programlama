@@ -1,0 +1,2 @@
+oop.pkg18_.yapıcı_metotlar_.constructor_methods.pkg2.Ogrenci
+oop.pkg18_.yapıcı_metotlar_.constructor_methods.pkg2.OOP18_YAPICI_METOTLAR_Constructor_Methods2
